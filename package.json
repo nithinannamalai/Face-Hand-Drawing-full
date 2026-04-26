@@ -19,6 +19,12 @@
   "bugs": {
     "url": "https://github.com/Surya123-max525/news/issues"
   },
+
+  "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+},
   "homepage": "https://github.com/Surya123-max525/news#readme",
   "devDependencies": {
     "typescript": "^6.0.3",
